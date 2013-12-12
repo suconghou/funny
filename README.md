@@ -21,6 +21,10 @@
 <li>实时全网查找</li>
 <li>在线手册,goole一下</li>
 </ul>
+<h2>近况</h2>
+<ul>
+<li>DEMO URL <a href="http://3.conghou.duapp.com/">http://3.conghou.duapp.com/</a></li>
+</ul>
 <h2>联系</h2>
 <ul>
 <li>我的博客 <a href="http://blog.suconghou.cn">http://blog.suconghou.cn</a></li>
