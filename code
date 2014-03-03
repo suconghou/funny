@@ -1,6 +1,0 @@
-	@Override
-	function goto()
-	{
-	echo 'hello';
-	}
-	//goto();
