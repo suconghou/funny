@@ -42,7 +42,7 @@ input,textarea,button{resize:none;outline: none;}
 <? for ($i=0; $i <10 ; $i++) {?> 
 
 <div class='codelist'>
-<p onclick="load(<?=$i?>)">哈哈哈</p>
+<p onclick="load(<?=$i?>)">哈aa哈哈</p>
 </div>
 	
 <?}?>
