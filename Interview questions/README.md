@@ -1,4 +1,5 @@
 #简单的WEB开发者面试题
+
 ## <a name="list">目录</a>
 1. [前言](#preface)
 1. [HTML与CSS部分](#htmlcss)
@@ -6,11 +7,12 @@
 1. [PHP与MySql部分](#phpmysql)
 1. [其他](#other)
 1. [答案](#answer)
+
 ## <a name='preface'>前言</a>
 本文总结了一些常见的Web开发者常遇见的面试题,包含PHP,MYSQL,HTML,CSS,JAVASCRIPT
 题目包含常见的基本知识还有自己平时工作中经常遇到的问题,给大家分享
 题目简单,只适合初学者,同时也为自己巩固基础,回答如有误,请轻拍.
-## <a name='htmlcss'>HTML与CSS部分</a>##
+## <a name='htmlcss'>HTML与CSS部分</a>
 
 - HTML中的内敛元素如何装化为一个块级元素
 - 如何浮动一个元素,以及清除浮动的几种方法
