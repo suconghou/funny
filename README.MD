@@ -16,3 +16,14 @@
 07tcp和udp及unixsocket通信
 	实现一个ftp,websocket服务器
 
+
+C语言的学习参考
+
+http://www.runoob.com/cprogramming/c-tutorial.html
+
+GO语言的学习参考
+
+
+Python语言的学习参考
+
+
